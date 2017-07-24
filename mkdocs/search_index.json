@@ -1,0 +1,74 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to MkDocs\n\n\nThis is the website for the robotics lab rapid prototyping documentation", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-mkdocs", 
+            "text": "This is the website for the robotics lab rapid prototyping documentation", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "Capaci Cerealia Claros montibus latebris Athenas telum\n\n\nMiserrima et se\n\n\nLorem \nmarkdownum\n dedecus est, una in inquit et poscimus lapsum, arma. \nArcus\nAchille lutulenta\n semper, terga duarum non, sui tendere cohaesit: ab aures,\nurbes!\n\n\n\n\nNec quaedam pectora attonitaeque piasque Phoebo\n\n\nLapsas numen inferiora spectans murram inquit parvo\n\n\nSuperare te illum illa\n\n\n\n\nDictys que exegit primum\n\n\nQui proiecto sicut deseruit violave sedibus vidi cessante piscem India \nThessala\nquem praemia\n latus. \nHoc humi\n quotiens mille minimum Phaethon, omnes an mutat\nforte quaeritis muneris flumina, petebamus mea ab. Cecidit Combe una intumui\ndeae patet, suas quae Iuppiter quisquis ira ardor axem ait, sua et temptatae\nspectante. Pyropo arbor et pedem exiguam pariente viribus, eadem modicisque\nobstas: semper haesit geminae Minyeias, semesaque! Sua vulnera \nfluit\n.\n\n\n\n\nVolucris ferisne. Factaque et sua solus tamen exul piis repercusso quoque\nlongosque et quam. Carcere apparuit peteret eram ubi aerata, quam prima posses\ntellus Nonacrinas, vestras sine ducis? Cursus alter lumina locuta miserabilis\namnemque dederat; easdem quoque, thalamoque putaret, tecta fide. Tellurem\ncognovit pede vero ineunt Nyctimenen addere adnuerat sua.\n\n\n\n\nSuis parvumque et invidiam quaecumque redit\n\n\nArctos tam se seu Cinyphii puellae mandata prodesse actis hiemalibus remittit?\nCornua rudentes, sola caerulea; animalia pedem. Ambit coniuge teste praetereunt\nme est aut iussorum deusve et manusque usus partes. Notavi \nrostro\nreducere\n iam factas iuvenale \nobstipuit\ndignatur valetque\n, in? Sacra \nhabent\n pelagi vultu petiit, fluens in genus:\nhis ducem Sospite ecquis alta, Letoidos.\n\n\nAbdita moram solent in esto habet frena\n\n\nSaltumque notissima facioque\n vasti. Picae inserui\nnon. Illa sermone \nspondet\n: alma, inposuit, telaque quaeque undas.\n\n\nMalorum flamma nec fecit suo crimine saeva placuisse deserto quae inpositaque\nsicut velis lentis. Fit longa insania huc, lapis Chaonius culpam, ter non\nferuntur laudis aena speculo.", 
+            "title": "About"
+        }, 
+        {
+            "location": "/about/#capaci-cerealia-claros-montibus-latebris-athenas-telum", 
+            "text": "", 
+            "title": "Capaci Cerealia Claros montibus latebris Athenas telum"
+        }, 
+        {
+            "location": "/about/#miserrima-et-se", 
+            "text": "Lorem  markdownum  dedecus est, una in inquit et poscimus lapsum, arma.  Arcus\nAchille lutulenta  semper, terga duarum non, sui tendere cohaesit: ab aures,\nurbes!   Nec quaedam pectora attonitaeque piasque Phoebo  Lapsas numen inferiora spectans murram inquit parvo  Superare te illum illa", 
+            "title": "Miserrima et se"
+        }, 
+        {
+            "location": "/about/#dictys-que-exegit-primum", 
+            "text": "Qui proiecto sicut deseruit violave sedibus vidi cessante piscem India  Thessala\nquem praemia  latus.  Hoc humi  quotiens mille minimum Phaethon, omnes an mutat\nforte quaeritis muneris flumina, petebamus mea ab. Cecidit Combe una intumui\ndeae patet, suas quae Iuppiter quisquis ira ardor axem ait, sua et temptatae\nspectante. Pyropo arbor et pedem exiguam pariente viribus, eadem modicisque\nobstas: semper haesit geminae Minyeias, semesaque! Sua vulnera  fluit .   Volucris ferisne. Factaque et sua solus tamen exul piis repercusso quoque\nlongosque et quam. Carcere apparuit peteret eram ubi aerata, quam prima posses\ntellus Nonacrinas, vestras sine ducis? Cursus alter lumina locuta miserabilis\namnemque dederat; easdem quoque, thalamoque putaret, tecta fide. Tellurem\ncognovit pede vero ineunt Nyctimenen addere adnuerat sua.", 
+            "title": "Dictys que exegit primum"
+        }, 
+        {
+            "location": "/about/#suis-parvumque-et-invidiam-quaecumque-redit", 
+            "text": "Arctos tam se seu Cinyphii puellae mandata prodesse actis hiemalibus remittit?\nCornua rudentes, sola caerulea; animalia pedem. Ambit coniuge teste praetereunt\nme est aut iussorum deusve et manusque usus partes. Notavi  rostro\nreducere  iam factas iuvenale  obstipuit\ndignatur valetque , in? Sacra  habent  pelagi vultu petiit, fluens in genus:\nhis ducem Sospite ecquis alta, Letoidos.", 
+            "title": "Suis parvumque et invidiam quaecumque redit"
+        }, 
+        {
+            "location": "/about/#abdita-moram-solent-in-esto-habet-frena", 
+            "text": "Saltumque notissima facioque  vasti. Picae inserui\nnon. Illa sermone  spondet : alma, inposuit, telaque quaeque undas.  Malorum flamma nec fecit suo crimine saeva placuisse deserto quae inpositaque\nsicut velis lentis. Fit longa insania huc, lapis Chaonius culpam, ter non\nferuntur laudis aena speculo.", 
+            "title": "Abdita moram solent in esto habet frena"
+        }, 
+        {
+            "location": "/stratasys/", 
+            "text": "", 
+            "title": "Stratasys"
+        }, 
+        {
+            "location": "/markforged/", 
+            "text": "Overview\n\n\nThe Mark Two Markforged printer is used extensively by the robolab when a part is mission-critical and needs to be as strong as possible. Markforged prints are almost exclusively done in onyx, a material made of engineering nylon fused with chopped carbon fiber (\nreference\n). The printer also has the ability to print in reinforced nylon (\nreference\n). To use the printer, you need to be trained by a MarkForged Ninja. If you have a part to be printed and are not trained, ask a ninja to add it to the queue, and they will notify you upon completion.\n\n\nInformation\n\n\n\n\nNinjas\n: Isaac Vandor, Connor Novak, Carl Moser\n\n\nName\n: Markey McMarkForged\n\n\nLocation\n: AC226\n\n\nMaterials\n: Onyx, Nylon (ninja use only)\n\n\n\n\nSoftware\n\n\nThe Markforged printer used by the Olin Robotics Lab is set up to interface with Eiger, an online web interface that handles part slicing and orientation as well as the print queue for the printer. For more information, see the wiki page on Eiger. (\ndocumentation\n)\n\n\nCleaning \n Maintenance\n\n\n\n\nPurging\n: If the MarkForged hasn't printed in a few hours, it will print a thick strand of material on the far back edge upon startup to purge the extruder. If the printer is already warmed up, the test line will be much less substantial.\n\n\nRemoving Parts\n: The build plate of the Markforged printer can be damaged during part removal. When removing parts, only use the yellow-handled scraper (due to the thickness of the blade), place the build plate on it's end on a table, and scrape directly down the plate.\n\n\nGeneral Cleaning\n: Every few prints, the build plate needs to be wiped clean of glue residue. Take the build plate to a sink, wet a paper towel, and rub until the glue softens, then wipe off with a dry paper towel. Repeat until the build surface is no longer sticky. If strands of filament or dust build up inside the Markforged case, remove them and throw away.\n\n\n\n\nThis Github Wiki Page Under Construction\n \n\n\nConnor Novak last edited 07/02/17", 
+            "title": "Markforged"
+        }, 
+        {
+            "location": "/markforged/#overview", 
+            "text": "The Mark Two Markforged printer is used extensively by the robolab when a part is mission-critical and needs to be as strong as possible. Markforged prints are almost exclusively done in onyx, a material made of engineering nylon fused with chopped carbon fiber ( reference ). The printer also has the ability to print in reinforced nylon ( reference ). To use the printer, you need to be trained by a MarkForged Ninja. If you have a part to be printed and are not trained, ask a ninja to add it to the queue, and they will notify you upon completion.", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/markforged/#information", 
+            "text": "Ninjas : Isaac Vandor, Connor Novak, Carl Moser  Name : Markey McMarkForged  Location : AC226  Materials : Onyx, Nylon (ninja use only)", 
+            "title": "Information"
+        }, 
+        {
+            "location": "/markforged/#software", 
+            "text": "The Markforged printer used by the Olin Robotics Lab is set up to interface with Eiger, an online web interface that handles part slicing and orientation as well as the print queue for the printer. For more information, see the wiki page on Eiger. ( documentation )", 
+            "title": "Software"
+        }, 
+        {
+            "location": "/markforged/#cleaning-maintenance", 
+            "text": "Purging : If the MarkForged hasn't printed in a few hours, it will print a thick strand of material on the far back edge upon startup to purge the extruder. If the printer is already warmed up, the test line will be much less substantial.  Removing Parts : The build plate of the Markforged printer can be damaged during part removal. When removing parts, only use the yellow-handled scraper (due to the thickness of the blade), place the build plate on it's end on a table, and scrape directly down the plate.  General Cleaning : Every few prints, the build plate needs to be wiped clean of glue residue. Take the build plate to a sink, wet a paper towel, and rub until the glue softens, then wipe off with a dry paper towel. Repeat until the build surface is no longer sticky. If strands of filament or dust build up inside the Markforged case, remove them and throw away.   This Github Wiki Page Under Construction    Connor Novak last edited 07/02/17", 
+            "title": "Cleaning &amp; Maintenance"
+        }
+    ]
+}
