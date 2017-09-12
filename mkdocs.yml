@@ -1,0 +1,14 @@
+site_name: Rapid Prototyping
+pages:
+  - Home: index.md
+  - 3D Printing:
+    - Markforged: markforged.md
+    - Stratasys: stratasys.md
+  - Machining:
+    - Shopbot: shopbot.md
+    - Tormach: tormach.md
+theme: yeti
+extra:
+    theme_inverse: false
+repo_url: https://github.com/olinrobotics/rapid_prototyping
+
