@@ -27,11 +27,9 @@ Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdmyTv0tvSwLGgrZyd
 
 
 ## Software
-The Markforged printer used by the Olin Robotics Lab is set up to interface with [Eiger](eiger.io), an online web interface that handles part slicing and orientation as well as the print queue for the printer. For more information, see the wiki page on Eiger. ([documentation]())
+The Markforged printer used by the Olin Robotics Lab is set up to interface with [Eiger](eiger.io), an online web interface that handles part slicing and orientation as well as the print queue for the printer. Talk to the Markforged Ninjas about getting access to Eiger.
 
 ## Cleaning & Maintenance
 - **Purging**: If the MarkForged hasn't printed in a few hours, it will print a thick strand of material on the far back edge upon startup to purge the extruder. If the printer is already warmed up, the test line will be much less substantial.
 - **Removing Parts**: The build plate of the Markforged printer can be damaged during part removal. When removing parts, only use the yellow-handled scraper (due to the thickness of the blade), place the build plate on it's end on a table, and scrape directly down the plate.
 - **General Cleaning**: Every few prints, the build plate needs to be wiped clean of glue residue. Take the build plate to a sink, wet a paper towel, and rub until the glue softens, then wipe off with a dry paper towel. Repeat until the build surface is no longer sticky. If strands of filament or dust build up inside the Markforged case, remove them and throw away.
-
-*This Page Is Under Construction* <br/>
