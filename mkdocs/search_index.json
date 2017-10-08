@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Rapid Prototyping within the Robo Lab\n\n\nThis is the website for the robotics lab rapid prototyping documentation\n\n\nRapid Prototyping NINJAS\n\n\n\n\nCarl Moser\n\n\nChristina Segar\n\n\n\n\nUseful links\n\n\n\n\nEiger\n\n\nMarkforged Form\n\n\nStratasys Form", 
+            "text": "Rapid Prototyping within the Robo Lab\n\n\nThis is the website for the robotics lab rapid prototyping documentation\n\n\nRapid Prototyping NINJAS\n\n\n\n\nCarl Moser\n\n\nChristina Segar\n\n\n\n\nUseful links\n\n\n\n\nHow orientation affects your part\n\n\n\n\nForms\n\n\n\n\nMarkforged Form\n\n\nStratasys Form", 
             "title": "Home"
         }, 
         {
@@ -17,12 +17,17 @@
         }, 
         {
             "location": "/#useful-links", 
-            "text": "Eiger  Markforged Form  Stratasys Form", 
+            "text": "How orientation affects your part", 
             "title": "Useful links"
         }, 
         {
+            "location": "/#forms", 
+            "text": "Markforged Form  Stratasys Form", 
+            "title": "Forms"
+        }, 
+        {
             "location": "/markforged/", 
-            "text": "Markforged\n\n\nOverview\n\n\nThe Mark Two Markforged printer is used extensively by the robolab when a part is mission-critical and needs to be as strong as possible.\n\n\nInformation\n\n\n\n\nNinjas\n: Lauren Gulland, Carl Moser, Connor Novak, Isaac Vandor\n\n\nName\n: Markey McMarkForged\n\n\nLocation\n: AC226\n\n\nMaterials\n: Onyx, Nylon (ninja use only)\n\n\n\n\nMaterials\n\n\nMarkforged prints are almost exclusively done in onyx, a material made of nylon fused with chopped carbon fiber (\nreference\n). The printer also has the ability to print in nylon (\nreference\n).\n\n\nFibers\n\n\nThe Markforged can also embed continuous fiber strands within the layers of a print. This greatly improves various properties of the part but also greatly increases print times. Information on the properties of these fibers can be found by clicking on the following links:\n\n\n\n\nFiberglass\n - Strong\n\n\nHSHT Fiberglass\n - Strong and high temperature\n\n\nCarbon Fiber\n - Strong and stiff\n\n\nKevlar\n - Abrasion resistant and flexible\n\n\n\n\nPrinting\n\n\nTo use the printer, you need to be trained by a MarkForged Ninja. If you have a part to be printed and are not trained, ask a ninja to add it to the queue, and they will notify you upon completion.\n\n\nFill out \nthis form\n\n\nSoftware\n\n\nThe Markforged printer used by the Olin Robotics Lab is set up to interface with \nEiger\n, an online web interface that handles part slicing and orientation as well as the print queue for the printer. Talk to the Markforged Ninjas about getting access to Eiger.\n\n\nCleaning \n Maintenance\n\n\n\n\nPurging\n: If the MarkForged hasn't printed in a few hours, it will print a thick strand of material on the far back edge upon startup to purge the extruder. If the printer is already warmed up, the test line will be much less substantial.\n\n\nRemoving Parts\n: The build plate of the Markforged printer can be damaged during part removal. When removing parts, only use the yellow-handled scraper (due to the thickness of the blade), place the build plate on it's end on a table, and scrape directly down the plate.\n\n\nGeneral Cleaning\n: Every few prints, the build plate needs to be wiped clean of glue residue. Take the build plate to a sink, wet a paper towel, and rub until the glue softens, then wipe off with a dry paper towel. Repeat until the build surface is no longer sticky. If strands of filament or dust build up inside the Markforged case, remove them and throw away.", 
+            "text": "Markforged\n\n\nOverview\n\n\nThe Markforged Mark Two printer is used extensively by the robolab when a part is mission-critical and needs to be as strong as possible.\n\n\nInformation\n\n\n\n\nNinjas\n: Lauren Gulland, Carl Moser, Connor Novak, Isaac Vandor\n\n\nName\n: Markey McMarkForged\n\n\nLocation\n: AC226\n\n\nMaterials\n: Onyx, Nylon (ninja use only)\n\n\n\n\nMaterials\n\n\nMarkforged prints are almost exclusively done in \nonyx\n, a material made of nylon fused with chopped carbon fiber. The printer also has the ability to print in \nnylon\n.\n\n\nFibers\n\n\nThe Markforged can also embed continuous fiber strands within the layers of a print. This greatly improves various properties of the part but also greatly increases print times. Information on the properties of these fibers can be found by clicking on the following links:\n\n\n\n\nFiberglass\n - Strong\n\n\nHSHT Fiberglass\n - Strong and high temperature\n\n\nCarbon Fiber\n - Strong and stiff\n\n\nKevlar\n - Abrasion resistant and flexible\n\n\n\n\nBuild Volume\n\n\nThe build volume of the Mark Two is 12.59\" x 5.19\" x 6\" (320 mm x 132 mm x 154 mm)\n\n\nPrinting\n\n\nTo use the printer, you need to be trained by a MarkForged Ninja. If you have a part to be printed and are not trained, ask a ninja to add it to the queue, and they will notify you upon completion.\n\n\nFill out \nthis form\n\n\nSoftware\n\n\nThe Markforged printer used by the Olin Robotics Lab is set up to interface with \nEiger\n, an online web interface that handles part slicing and orientation as well as the print queue for the printer. Talk to the Markforged Ninjas about getting access to Eiger.\n\n\nCleaning \n Maintenance\n\n\n\n\nPurging\n: If the MarkForged hasn't printed in a few hours, it will print a thick strand of material on the far back edge upon startup to purge the extruder. If the printer is already warmed up, the test line will be much less substantial.\n\n\nRemoving Parts\n: The build plate of the Markforged printer can be damaged during part removal. When removing parts, only use the yellow-handled scraper (due to the thickness of the blade), place the build plate on it's end on a table, and scrape directly down the plate.\n\n\nGeneral Cleaning\n: Every few prints, the build plate needs to be wiped clean of glue residue. Take the build plate to a sink, wet a paper towel, and rub until the glue softens, then wipe off with a dry paper towel. Repeat until the build surface is no longer sticky. If strands of filament or dust build up inside the Markforged case, remove them and throw away.", 
             "title": "Markforged"
         }, 
         {
@@ -32,7 +37,7 @@
         }, 
         {
             "location": "/markforged/#overview", 
-            "text": "The Mark Two Markforged printer is used extensively by the robolab when a part is mission-critical and needs to be as strong as possible.", 
+            "text": "The Markforged Mark Two printer is used extensively by the robolab when a part is mission-critical and needs to be as strong as possible.", 
             "title": "Overview"
         }, 
         {
@@ -42,13 +47,18 @@
         }, 
         {
             "location": "/markforged/#materials", 
-            "text": "Markforged prints are almost exclusively done in onyx, a material made of nylon fused with chopped carbon fiber ( reference ). The printer also has the ability to print in nylon ( reference ).", 
+            "text": "Markforged prints are almost exclusively done in  onyx , a material made of nylon fused with chopped carbon fiber. The printer also has the ability to print in  nylon .", 
             "title": "Materials"
         }, 
         {
             "location": "/markforged/#fibers", 
             "text": "The Markforged can also embed continuous fiber strands within the layers of a print. This greatly improves various properties of the part but also greatly increases print times. Information on the properties of these fibers can be found by clicking on the following links:   Fiberglass  - Strong  HSHT Fiberglass  - Strong and high temperature  Carbon Fiber  - Strong and stiff  Kevlar  - Abrasion resistant and flexible", 
             "title": "Fibers"
+        }, 
+        {
+            "location": "/markforged/#build-volume", 
+            "text": "The build volume of the Mark Two is 12.59\" x 5.19\" x 6\" (320 mm x 132 mm x 154 mm)", 
+            "title": "Build Volume"
         }, 
         {
             "location": "/markforged/#printing", 
@@ -67,7 +77,7 @@
         }, 
         {
             "location": "/stratasys/", 
-            "text": "Stratasys\n\n\nOverview\n\n\nThe Stratasys 3D printers are used extensively by the robolab as the go-to printers.\n\n\nInformation\n\n\n\n\nNinjas\n: Carl Moser, Christina Segar\n\n\nNames\n: Andrew, Barry\n\n\nLocation\n: AC226\n\n\nMaterials\n: ABS and Soluble Support\n\n\n\n\nMaterials\n\n\nStratasys prints are made of ABS, a strong and tough thermoplasic that is resistant to impacts. It is less brittle and more heat resistant than PLA. The Stratasys machines also use a soluble support matterial to help with overhangs and bridging.\n\n\nPrinting\n\n\nIf you have a part to be printed, fill out the following form, and the RP Ninjas will notify you upon completion. If you have a part to be printed and it is not SCOPE/class/research related, talk to Prof. David Barrett first.\n\n\nFill out \nthis form\n\n\nLead Times\n\n\nUnlike most of the other 3D printers on campus, the Stratasys use a soluble support material. Depending on the geometry of the part, there may be support material that cannot be broken off and will need to be dissolved. This process involves roughly 6-12 hours in the lye bath, 24 hours in the grey water tank, and 6-12 hours drying. If you absolutely need a part sooner, email the RP Ninjas and we will do what we can to expedite this process.", 
+            "text": "Stratasys\n\n\nOverview\n\n\nThe Stratasys 3D printers are used extensively by the robolab as the go-to printers.\n\n\nInformation\n\n\n\n\nNinjas\n: Carl Moser, Christina Segar\n\n\nNames\n: Andrew, Barry\n\n\nLocation\n: AC226\n\n\nMaterials\n: ABS and Soluble Support\n\n\n\n\nMaterials\n\n\nStratasys prints are made of ABS, a strong and tough thermoplasic that is resistant to impacts. It is less brittle and more heat resistant than PLA. The Stratasys machines also use a soluble support matterial to help with overhangs and bridging.\n\n\nBuild Volume\n\n\nThe build volume of the Stratasys is 9.5\" x 9.5\" x 11.75\" (241.3 mm x 241.3 mm x 298.4 mm)\n\n\nPrinting\n\n\nIf you have a part to be printed, fill out the following form, and the RP Ninjas will notify you upon completion. If you have a part to be printed and it is not SCOPE/class/research related, talk to Prof. David Barrett first.\n\n\nFill out \nthis form\n\n\nLead Times\n\n\nUnlike most of the other 3D printers on campus, the Stratasys use a soluble support material. Depending on the geometry of the part, there may be support material that cannot be broken off and will need to be dissolved. This process involves roughly 6-12 hours in the lye bath, 24 hours in the grey water tank, and 6-12 hours drying. If you absolutely need a part sooner, email the RP Ninjas and we will do what we can to expedite this process.", 
             "title": "Stratasys"
         }, 
         {
@@ -89,6 +99,11 @@
             "location": "/stratasys/#materials", 
             "text": "Stratasys prints are made of ABS, a strong and tough thermoplasic that is resistant to impacts. It is less brittle and more heat resistant than PLA. The Stratasys machines also use a soluble support matterial to help with overhangs and bridging.", 
             "title": "Materials"
+        }, 
+        {
+            "location": "/stratasys/#build-volume", 
+            "text": "The build volume of the Stratasys is 9.5\" x 9.5\" x 11.75\" (241.3 mm x 241.3 mm x 298.4 mm)", 
+            "title": "Build Volume"
         }, 
         {
             "location": "/stratasys/#printing", 
