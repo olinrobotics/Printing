@@ -7,6 +7,9 @@ This is the website for the robotics lab rapid prototyping documentation
 - [Christina Segar](mailto:christina.segar@students.olin.edu)
 
 ## Useful links
-- [Eiger](eiger.io)
+- [How orientation affects your part](https://www.3dhubs.com/knowledge-base/how-does-part-orientation-affect-3d-print#part-orientation-by-technology)
+
+
+## Forms
 - [Markforged Form](https://docs.google.com/forms/d/e/1FAIpQLSdmyTv0tvSwLGgrZyd46PquS5lzTRVFLTvbMzp68B8jHT7iDg/viewform)
 - [Stratasys Form](https://docs.google.com/forms/d/e/1FAIpQLScsqf-wnN6Tf1JjVtq8iTumT-SjDHye2qAZa94RPw8yIjEISA/closedform)

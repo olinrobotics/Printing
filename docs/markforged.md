@@ -1,6 +1,6 @@
 # Markforged
 ## Overview
-The Mark Two Markforged printer is used extensively by the robolab when a part is mission-critical and needs to be as strong as possible.
+The Markforged Mark Two printer is used extensively by the robolab when a part is mission-critical and needs to be as strong as possible.
 
 ## Information
 - **Ninjas**: Lauren Gulland, Carl Moser, Connor Novak, Isaac Vandor
@@ -9,7 +9,7 @@ The Mark Two Markforged printer is used extensively by the robolab when a part i
 - **Materials**: Onyx, Nylon (ninja use only)
 
 ## Materials
-Markforged prints are almost exclusively done in onyx, a material made of nylon fused with chopped carbon fiber ([reference](https://markforged.com/blog/introducing-our-new-markforged-material-onyx/)). The printer also has the ability to print in nylon ([reference](https://markforged.com/materials/#nylon)).
+Markforged prints are almost exclusively done in [onyx](https://markforged.com/blog/introducing-our-new-markforged-material-onyx/), a material made of nylon fused with chopped carbon fiber. The printer also has the ability to print in [nylon](https://markforged.com/materials/#nylon).
 
 ## Fibers
 The Markforged can also embed continuous fiber strands within the layers of a print. This greatly improves various properties of the part but also greatly increases print times. Information on the properties of these fibers can be found by clicking on the following links:
@@ -19,6 +19,9 @@ The Markforged can also embed continuous fiber strands within the layers of a pr
 - [HSHT Fiberglass](https://markforged.com/materials/#hsht-fiberglass) - Strong and high temperature
 - [Carbon Fiber](https://markforged.com/materials/#carbon-fiber) - Strong and stiff
 - [Kevlar](https://markforged.com/materials/#kevlar) - Abrasion resistant and flexible
+
+## Build Volume
+The build volume of the Mark Two is 12.59" x 5.19" x 6" (320 mm x 132 mm x 154 mm)
 
 ## Printing
 To use the printer, you need to be trained by a MarkForged Ninja. If you have a part to be printed and are not trained, ask a ninja to add it to the queue, and they will notify you upon completion.

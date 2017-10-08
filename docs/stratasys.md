@@ -11,6 +11,9 @@ The Stratasys 3D printers are used extensively by the robolab as the go-to print
 ## Materials
 Stratasys prints are made of ABS, a strong and tough thermoplasic that is resistant to impacts. It is less brittle and more heat resistant than PLA. The Stratasys machines also use a soluble support matterial to help with overhangs and bridging.
 
+## Build Volume
+The build volume of the Stratasys is 9.5" x 9.5" x 11.75" (241.3 mm x 241.3 mm x 298.4 mm)
+
 ## Printing
 If you have a part to be printed, fill out the following form, and the RP Ninjas will notify you upon completion. If you have a part to be printed and it is not SCOPE/class/research related, talk to Prof. David Barrett first.
 
