@@ -8,7 +8,8 @@ This is the website for the robotics lab rapid prototyping documentation
 
 ## Useful links
 - [How orientation affects your part](https://www.3dhubs.com/knowledge-base/how-does-part-orientation-affect-3d-print#part-orientation-by-technology)
-
+- [Single STL Solidworks](files/buildable_STL_Guide.pdf)
+- [Single STL Onshape]()
 
 ## Forms
 - [Markforged Form](https://docs.google.com/forms/d/e/1FAIpQLSdmyTv0tvSwLGgrZyd46PquS5lzTRVFLTvbMzp68B8jHT7iDg/viewform)

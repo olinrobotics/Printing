@@ -17,7 +17,13 @@ The build volume of the Stratasys is 9.5" x 9.5" x 11.75" (241.3 mm x 241.3 mm x
 ## Printing
 If you have a part to be printed, fill out the following form, and the RP Ninjas will notify you upon completion. If you have a part to be printed and it is not SCOPE/class/research related, talk to Prof. David Barrett first.
 
-Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScsqf-wnN6Tf1JjVtq8iTumT-SjDHye2qAZa94RPw8yIjEISA/viewform)
+If you have multiple parts to print, please submit them as a single STL. 
+
+- [Single STL Solidworks](files/buildable_STL_Guide.pdf)
+- [Single STL Onshape]()
+
+
+Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScsqf-wnN6Tf1JjVtq8iTumT-SjDHye2qAZa94RPw8yIjEISA/viewform) to submit prints
 
 ## Lead Times
 Unlike most of the other 3D printers on campus, the Stratasys use a soluble support material. Depending on the geometry of the part, there may be support material that cannot be broken off and will need to be dissolved. This process involves roughly 6-12 hours in the lye bath, 24 hours in the grey water tank, and 6-12 hours drying. If you absolutely need a part sooner, email the RP Ninjas and we will do what we can to expedite this process.
