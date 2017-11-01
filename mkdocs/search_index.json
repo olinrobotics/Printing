@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Rapid Prototyping within the Robo Lab\n\n\nThis is the website for the robotics lab rapid prototyping documentation\n\n\nRapid Prototyping NINJAS\n\n\n\n\nCarl Moser\n\n\nChristina Segar\n\n\n\n\nUseful links\n\n\n\n\nHow orientation affects your part\n\n\n\n\nForms\n\n\n\n\nMarkforged Form\n\n\nStratasys Form", 
+            "text": "Rapid Prototyping within the Robo Lab\n\n\nThis is the website for the robotics lab rapid prototyping documentation\n\n\nRapid Prototyping NINJAS\n\n\n\n\nCarl Moser\n\n\nChristina Segar\n\n\n\n\nUseful links\n\n\n\n\nHow orientation affects your part\n\n\nSingle STL Solidworks\n\n\nSingle STL Onshape\n\n\n\n\nForms\n\n\n\n\nMarkforged Form\n\n\nStratasys Form", 
             "title": "Home"
         }, 
         {
@@ -17,7 +17,7 @@
         }, 
         {
             "location": "/#useful-links", 
-            "text": "How orientation affects your part", 
+            "text": "How orientation affects your part  Single STL Solidworks  Single STL Onshape", 
             "title": "Useful links"
         }, 
         {
@@ -77,7 +77,7 @@
         }, 
         {
             "location": "/stratasys/", 
-            "text": "Stratasys\n\n\nOverview\n\n\nThe Stratasys 3D printers are used extensively by the robolab as the go-to printers.\n\n\nInformation\n\n\n\n\nNinjas\n: Carl Moser, Christina Segar\n\n\nNames\n: Andrew, Barry\n\n\nLocation\n: AC226\n\n\nMaterials\n: ABS and Soluble Support\n\n\n\n\nMaterials\n\n\nStratasys prints are made of ABS, a strong and tough thermoplasic that is resistant to impacts. It is less brittle and more heat resistant than PLA. The Stratasys machines also use a soluble support matterial to help with overhangs and bridging.\n\n\nBuild Volume\n\n\nThe build volume of the Stratasys is 9.5\" x 9.5\" x 11.75\" (241.3 mm x 241.3 mm x 298.4 mm)\n\n\nPrinting\n\n\nIf you have a part to be printed, fill out the following form, and the RP Ninjas will notify you upon completion. If you have a part to be printed and it is not SCOPE/class/research related, talk to Prof. David Barrett first.\n\n\nFill out \nthis form\n\n\nLead Times\n\n\nUnlike most of the other 3D printers on campus, the Stratasys use a soluble support material. Depending on the geometry of the part, there may be support material that cannot be broken off and will need to be dissolved. This process involves roughly 6-12 hours in the lye bath, 24 hours in the grey water tank, and 6-12 hours drying. If you absolutely need a part sooner, email the RP Ninjas and we will do what we can to expedite this process.", 
+            "text": "Stratasys\n\n\nOverview\n\n\nThe Stratasys 3D printers are used extensively by the robolab as the go-to printers.\n\n\nInformation\n\n\n\n\nNinjas\n: Carl Moser, Christina Segar\n\n\nNames\n: Andrew, Barry\n\n\nLocation\n: AC226\n\n\nMaterials\n: ABS and Soluble Support\n\n\n\n\nMaterials\n\n\nStratasys prints are made of ABS, a strong and tough thermoplasic that is resistant to impacts. It is less brittle and more heat resistant than PLA. The Stratasys machines also use a soluble support matterial to help with overhangs and bridging.\n\n\nBuild Volume\n\n\nThe build volume of the Stratasys is 9.5\" x 9.5\" x 11.75\" (241.3 mm x 241.3 mm x 298.4 mm)\n\n\nPrinting\n\n\nIf you have a part to be printed, fill out the following form, and the RP Ninjas will notify you upon completion. If you have a part to be printed and it is not SCOPE/class/research related, talk to Prof. David Barrett first.\n\n\nIf you have multiple parts to print, please submit them as a single STL. \n\n\n\n\nSingle STL Solidworks\n\n\nSingle STL Onshape\n\n\n\n\nFill out \nthis form\n to submit prints\n\n\nLead Times\n\n\nUnlike most of the other 3D printers on campus, the Stratasys use a soluble support material. Depending on the geometry of the part, there may be support material that cannot be broken off and will need to be dissolved. This process involves roughly 6-12 hours in the lye bath, 24 hours in the grey water tank, and 6-12 hours drying. If you absolutely need a part sooner, email the RP Ninjas and we will do what we can to expedite this process.", 
             "title": "Stratasys"
         }, 
         {
@@ -107,7 +107,7 @@
         }, 
         {
             "location": "/stratasys/#printing", 
-            "text": "If you have a part to be printed, fill out the following form, and the RP Ninjas will notify you upon completion. If you have a part to be printed and it is not SCOPE/class/research related, talk to Prof. David Barrett first.  Fill out  this form", 
+            "text": "If you have a part to be printed, fill out the following form, and the RP Ninjas will notify you upon completion. If you have a part to be printed and it is not SCOPE/class/research related, talk to Prof. David Barrett first.  If you have multiple parts to print, please submit them as a single STL.    Single STL Solidworks  Single STL Onshape   Fill out  this form  to submit prints", 
             "title": "Printing"
         }, 
         {
