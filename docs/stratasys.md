@@ -3,7 +3,7 @@
 The Stratasys 3D printers are used extensively by the robolab as the go-to printers.
 
 ## Information
-- **Ninjas**: Carl Moser, Christina Segar
+- **Ninjas**: Christina Segar, Anika Payano
 - **Names**: Andrew, Barry
 - **Location**: AC226
 - **Materials**: ABS and Soluble Support
@@ -23,7 +23,7 @@ If you have multiple parts to print, please submit them as a single STL.
 - [Single STL Onshape]()
 
 
-Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScsqf-wnN6Tf1JjVtq8iTumT-SjDHye2qAZa94RPw8yIjEISA/viewform) to submit prints
+Fill out [this form](https://goo.gl/forms/gzTmUhogBM3Wxqo92) to submit prints
 
 ## Lead Times
 Unlike most of the other 3D printers on campus, the Stratasys use a soluble support material. Depending on the geometry of the part, there may be support material that cannot be broken off and will need to be dissolved. This process involves roughly 6-12 hours in the lye bath, 24 hours in the grey water tank, and 6-12 hours drying. If you absolutely need a part sooner, email the RP Ninjas and we will do what we can to expedite this process.
