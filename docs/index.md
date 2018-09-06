@@ -3,8 +3,8 @@
 This is the website for the robotics lab rapid prototyping documentation
 
 ## Rapid Prototyping NINJAS
-- [Carl Moser](mailto:carl.moser@students.olin.edu)
 - [Christina Segar](mailto:christina.segar@students.olin.edu)
+- [Anika Payano](mailto:anika.payano@students.olin.edu)
 
 ## Useful links
 - [How orientation affects your part](https://www.3dhubs.com/knowledge-base/how-does-part-orientation-affect-3d-print#part-orientation-by-technology)
@@ -12,5 +12,4 @@ This is the website for the robotics lab rapid prototyping documentation
 - [Single STL Onshape]()
 
 ## Forms
-- [Markforged Form](https://docs.google.com/forms/d/e/1FAIpQLSdmyTv0tvSwLGgrZyd46PquS5lzTRVFLTvbMzp68B8jHT7iDg/viewform)
-- [Stratasys Form](https://docs.google.com/forms/d/e/1FAIpQLScsqf-wnN6Tf1JjVtq8iTumT-SjDHye2qAZa94RPw8yIjEISA/closedform)
+- [Fill Out This Form To Request a Print](https://goo.gl/forms/Zxzfw0Vp5hsuqk0j2)
