@@ -3,7 +3,7 @@
 The Markforged Mark Two printer is used extensively by the robolab when a part is mission-critical and needs to be as strong as possible.
 
 ## Information
-- **Ninjas**: Lauren Gulland, Carl Moser, Connor Novak, Isaac Vandor
+- **Ninjas**: Christina Segar, Anika Payano
 - **Name**: Markey McMarkForged
 - **Location**: AC226
 - **Materials**: Onyx, Nylon (ninja use only)
@@ -26,7 +26,7 @@ The build volume of the Mark Two is 12.59" x 5.19" x 6" (320 mm x 132 mm x 154 m
 ## Printing
 To use the printer, you need to be trained by a MarkForged Ninja. If you have a part to be printed and are not trained, ask a ninja to add it to the queue, and they will notify you upon completion.
 
-Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdmyTv0tvSwLGgrZyd46PquS5lzTRVFLTvbMzp68B8jHT7iDg/viewform)
+Fill out [this form](https://goo.gl/forms/gzTmUhogBM3Wxqo92)
 
 
 ## Software
